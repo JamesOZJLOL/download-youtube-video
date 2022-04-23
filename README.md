@@ -47,7 +47,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Dependencies
 
-* Python 3.10 or above (<a href="https://www.python.org/downloads/">Download here</a>)
+* Python 3.10 or above (<a href="https://www.python.org/downloads/" target="_blank">Download here</a>)
 
 ### Installation
 
@@ -65,7 +65,7 @@ To get a local copy up and running follow these simple example steps.
    ```
    
 ### References
-* Youtube (<a href="https://www.youtube.com/watch?v=NtzDjNhPZgU">View here</a>)
+* Youtube (<a href="https://www.youtube.com/watch?v=NtzDjNhPZgU" target="_blank">View here</a>)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
