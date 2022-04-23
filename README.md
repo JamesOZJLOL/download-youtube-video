@@ -27,6 +27,7 @@
       <ul>
         <li><a href="#dependencies">Dependencies</a></li>
         <li><a href="#installation">Installation</a></li>
+        <li><a href="#sample-output">Sample Output</a></li>
       </ul>
     </li>
     <li>
@@ -63,6 +64,10 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    python src/download_youtube.py
    ```
+   
+### Sample Output
+![image](https://user-images.githubusercontent.com/53973672/164883669-24b0fa24-95b6-4fe3-8663-e8651042b413.png)
+
    
 ### References
 * Youtube (<a href="https://www.youtube.com/watch?v=NtzDjNhPZgU" target="_blank" rel="noopener noreferrer">View here</a>)
